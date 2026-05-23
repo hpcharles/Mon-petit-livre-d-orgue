@@ -20,3 +20,4 @@ all: ${FILES}
 
 clean:
 	rm -f ${FILES}
+	rm -f Liturgie/*/*.svg
